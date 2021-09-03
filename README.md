@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to use Github
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me through the ether
+- I want world peace and everyone to be happy
 
 <!---
 SimmieP/SimmieP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
